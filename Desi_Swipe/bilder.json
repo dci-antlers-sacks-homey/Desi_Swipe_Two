@@ -1,0 +1,12 @@
+[
+  {"id": 1, "image": "images/real/pexels-arina-krasnikova-7726072.jpg", "isReal": true},
+  {"id": 2, "image": "images/real/pexels-baraa-jalahej-691192-13898016.jpg", "isReal": true},
+  {"id": 3, "image": "images/real/pexels-francesco-ungaro-7211131.jpg", "isReal": true},
+  {"id": 4, "image": "images/real/pexels-koprivakart-5800065.jpg", "isReal": true},
+  {"id": 5, "image": "images/real/pexels-matreding-7153089.jpg", "isReal": true},
+  {"id": 6, "image": "images/real/pexels-moritz-feldmann-3362914-5048738.jpg", "isReal": true},
+  {"id": 7, "image": "images/real/Buddy_christ.jpg", "isReal": true},
+  {"id": 8, "image": "images/fake/doggo1.jpg", "isReal": false, "markedImage": "images/fake/doggo1_marked.jpg"},
+  {"id": 9, "image": "images/fake/pexels-igor-morais-1647019-3148115.jpg", "isReal": false, "markedImage": "images/fake/pexels-igor-morais-1647019-3148115_marked.jpg"},
+  {"id": 10, "image": "images/fake/pexels-viviana-escobar-274688-1672063.jpg", "isReal": false, "markedImage": "images/fake/pexels-viviana-escobar-274688-1672063_marked.jpg"}
+]
